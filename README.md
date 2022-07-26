@@ -1,5 +1,5 @@
 ### Olá, sou Marcio Paranhos.👋<br>
-Atualmente estudante de Front-end com uma noção considerave em Back-end
+Atualmente estudante de Front-end com uma noção consideravel em Back-end com a linguagem PHP.
 ##
 
 <div align="center">
