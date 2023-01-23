@@ -1,6 +1,7 @@
 ### Olá, sou Marcio Paranhos.👋<br>
 Atualmente estudante de Front-end com uma noção consideravel em Back-end com a linguagem PHP.<br>
 Projetos Atuais : <br><a href="https://github.com/MarcioParanhos/CPC---Controle-de-programa--o">CPC - Controle de programação e carência</a>
+<br><a href="https://github.com/MarcioParanhos/Optics-System">Optics System - Controle de Oticas</a>
 ##
 
 <div align="center">
